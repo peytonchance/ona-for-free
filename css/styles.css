@@ -1,0 +1,79 @@
+/* Global Styles  */
+
+body{
+  font-family: 'Lato', sans-serif;
+  color: #243744;
+  font-size: 16px;
+  background: #f4f3ea; /* Old browsers */
+background: -moz-linear-gradient(top, #f4f3ea 0%, #ffffff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #f4f3ea 0%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #f4f3ea 0%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background-repeat: no-repeat;
+background-size: 100% 50%;
+}
+
+h1, h2, h3{
+  font-family: 'Bree Serif', serif;
+}
+
+h1{
+  font-size: 1.8em;
+}
+
+h2{
+  font-size: 1.3em;
+}
+
+.header{
+  padding-top: 5%;
+  position: relative;
+}
+
+#header-at{
+  font-size: 4em;
+  color: #00A39C;
+  position: absolute;
+  top: -20px;
+  left: -30px;
+  z-index: 1;
+}
+
+#logo{
+  width: 150px;
+  height: auto;
+  top: -40px;
+  right: 13px;
+  position: absolute;
+}
+
+.header-title{
+  z-index: 10;
+}
+
+.dropdown-menu{
+  width: 100.5%;
+  border-radius: 0px;
+  margin-left: -1px;
+  margin-right: auto;
+}
+.dropdown{
+  margin-top: 7%;
+  border-radius: 0px;
+}
+.dropdown:focus{
+  outline: none;
+}
+
+.custom-dropdown{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: #00a39b;
+  font-family: 'Bree Serif', serif;
+  border-radius: 0px;
+}
+
+.results{
+  margin-top: 10%;
+}
