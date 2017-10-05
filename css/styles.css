@@ -10,6 +10,7 @@ background: -webkit-linear-gradient(top, #f4f3ea 0%,#ffffff 100%); /* Chrome10-2
 background: linear-gradient(to bottom, #f4f3ea 0%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 background-repeat: no-repeat;
 background-size: 100% 50%;
+min-height: 100vh;
 }
 
 h1, h2, h3{
@@ -24,18 +25,19 @@ h2{
   font-size: 1.3em;
 }
 
+.container{
+  padding-left: 6%;
+  padding-right: 6%;
+}
 .header{
   padding-top: 5%;
   position: relative;
 }
 
-#header-at{
-  font-size: 4em;
-  color: #00A39C;
-  position: absolute;
-  top: -22px;
-  left: -9px;
-  z-index: 1;
+#header-logo{
+  width: 100%;
+  margin-top: -15px;
+  margin-bottom: -10px;
 }
 
 #logo{
@@ -48,6 +50,7 @@ h2{
 
 .header-title{
   z-index: 10;
+  max-width: 48%;
 }
 
 .dropdown-menu{
@@ -57,7 +60,7 @@ h2{
   margin-right: auto;
 }
 .dropdown{
-  margin-top: 7%;
+  margin-top: 3%;
   border-radius: 0px;
 }
 .dropdown:focus{
@@ -66,9 +69,7 @@ h2{
 
 .custom-dropdown{
   width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  height: 37px;
   color: #00a39b;
   font-family: 'Bree Serif', serif;
   border-radius: 0px;
@@ -76,4 +77,49 @@ h2{
 
 .results{
   margin-top: 10%;
+}
+
+.company-image{
+  width: 100%;
+  height: auto;
+}
+
+.results-row{
+  border-style: solid;
+  border-width: 1px;
+  border-color: #f1f1f1;
+  margin-left: 3%;
+  margin-right: 3%;
+  margin-bottom: 5%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.results h2{
+  margin-bottom: 5%;
+}
+
+
+footer{
+  position: sticky;
+}
+
+footer a{
+  color: #00a39b;
+  font-family: 'Bree Serif', serif;
+  font-size: 1.2em;
+  letter-spacing: 0.03em;
+}
+
+footer span{
+  color: #b72f60;
+}
+
+#footer-logo{
+  width: 40%;
+}
+.top-bar{
+  border-bottom-style: solid;
+  border-bottom-color: #b72f60;
+  margin-bottom: 5%;
 }

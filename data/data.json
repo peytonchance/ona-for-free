@@ -3,36 +3,40 @@
         "name": "Google",
         "location": "Midway",
         "description": "This is a company that does work.",
-        "pen": "true",
-        "notebook": "true",
-        "drink": "false",
-        "food": "false"
+        "pen": true,
+        "notebook": true,
+        "drink": false,
+        "food": false,
+        "imageLink": "../img/ona_logo.jpg"
     },
     {
         "name": "Facebook",
         "location": "Lobby",
         "description": "Facebook is a social network.",
-        "pen": "false",
-        "notebook": "true",
-        "drink": "true",
-        "food": "false"
+        "pen": false,
+        "notebook": true,
+        "drink": true,
+        "food": false,
+        "imageLink": "../img/ona_logo.jpg"
     },
     {
         "name": "The Washington Post",
         "location": "Midway",
         "description": "WaPo is a media corp.",
-        "pen": "true",
-        "notebook": "false",
-        "drink": "true",
-        "food": "false"
+        "pen": true,
+        "notebook": false,
+        "drink": true,
+        "food": false,
+        "imageLink": "../img/ona_logo.jpg"
     },
     {
         "name": "The New York Times",
         "location": "Roof",
         "description": "The NYT is a media corp.",
-        "pen": "true",
-        "notebook": "false",
-        "drink": "true",
-        "food": "true"
+        "pen": true,
+        "notebook": false,
+        "drink": true,
+        "food": true,
+        "imageLink": "../img/ona_logo.jpg"
     }
 ]
