@@ -5,7 +5,7 @@ new Vue({
     //Store variables here
     booths: [],
     selectedItems: [],
-    selectedItem: 'Notebooks',
+    selectedItem: '',
   },
   methods: {
 

@@ -183,14 +183,15 @@
     <!---- Item Selection Dropdown ---->
     <p>Use the dropdown below to select an item that you'd like to get for free at ONA17.</p>
     <p>Interested in learning more about how ONA sponsors use cool gear to connect with journalists? Learn more <a href="#">here</a>.</p>
-
+    <h2>Item Select</h2>
     <div class="row">
       <div class="col-12">
         <div class="dropdown">
           <select class="custom-dropdown" v-model="selectedItem">
-            <option label="Notebooks" value="notebook">Notebooks</option>
-            <option value="pen">Pens</option>
-            <option value-"drink">Drinks (21+)</option>
+            <option value="">Please select one</option>
+            <option label="Notebooks" value="notebook" selected>Notebooks</option>
+            <option  selected value="pen">Pens</option>
+            <option value="drink">Drinks (21+)</option>
             <option value="food">Food</option>
           </select>
         </div>
@@ -233,7 +234,7 @@
 <footer>
   <div class="container footer text-center">
 
-      <a href="http://ona17.journalists.org" target="_blank">ONA17 Home </a> <span>|</span> <a href="#"> Student Newsroom</a>
+      <a href="http://ona17.journalists.org" target="_blank">ONA17 Home </a> <span>|</span> <a href="#"> Student Newsroom</a><br>
         <img src="img/ona_logo.jpg" alt="ONA17 logo featuring the United States Capitol Building" id="footer-logo">
   </div>
 </footer>
