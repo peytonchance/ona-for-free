@@ -190,9 +190,12 @@
           <select class="custom-dropdown" v-model="selectedItem">
             <option value="">Please select one</option>
             <option label="Notebooks" value="notebook" selected>Notebooks</option>
-            <option  selected value="pen">Pens</option>
-            <option value="drink">Drinks (21+)</option>
-            <option value="food">Food</option>
+            <option  selected value="fidget">Fidget Tools</option>
+            <option value="virtual">Virtual Reality</option>
+            <option value="charger">Chargers</option>
+            <option value="tech">Tech Goodies</option>
+            <option value="mug">Mugs</option>
+            <option value="bag">Bags</option>
           </select>
         </div>
       </div>
@@ -205,12 +208,11 @@
     <div v-for="booth in singleFilter"> <!-- don't use () for computed properties -->
       <div class="row results-row">
         <div class="col-3">
-              <img :src="booth.imageLink" class="company-image"/>
+              <img :src="booth.imageurl" class="company-image"/>
         </div>
         <div class="col-9">
           <h3>{{booth.name}}</h3>
-          <p><strong>Description:</strong> {{booth.description}}</p>
-          <p><strong>Location:</strong> {{booth.location}}</p>
+          <p><strong>Twitter:</strong> {{booth.twitter}}</p>
         </div>
       </div>
     </div>
