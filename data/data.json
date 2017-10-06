@@ -93,7 +93,7 @@
         "tech": false,
         "mug": false,
         "bag": false,
-        "imageurl": "img/jsk_logo.png"
+        "imageurl": "img/kitchens_logo.png"
     },
     {
         "name": "JSK Fellowships at Stanford",
@@ -105,7 +105,7 @@
         "tech": false,
         "mug": false,
         "bag": true,
-        "imageurl": "img/kitchens_logo.png"
+        "imageurl": "img/jsk_logo.png"
     },
     {
         "name": "Knight-Wallace Fellowship",
@@ -141,7 +141,7 @@
         "tech": true,
         "mug": false,
         "bag": false,
-        "imageurl": "img/ona_logo.jpg"
+        "imageurl": "img/parsely_logo.jpeg"
     },
     {
         "name": "Reddit",
@@ -153,7 +153,7 @@
         "tech": false,
         "mug": false,
         "bag": true,
-        "imageurl": "img/parsely_logo.jpeg"
+        "imageurl": "img/reddit_logo.png"
     },
     {
         "name": "Taboola",
@@ -165,7 +165,7 @@
         "tech": false,
         "mug": false,
         "bag": false,
-        "imageurl": "img/reddit_logo.png"
+        "imageurl": "img/taboola_logo.jpg"
     },
     {
         "name": "Trint",
@@ -177,7 +177,7 @@
         "tech": false,
         "mug": true,
         "bag": false,
-        "imageurl": "img/sojc_logo.jpeg"
+        "imageurl": "img/trint_logo.jpg"
     },
     {
         "name": "True Anthem",
@@ -189,7 +189,7 @@
         "tech": false,
         "mug": false,
         "bag": false,
-        "imageurl": "img/taboola_logo.jpg"
+        "imageurl": "img/anthem_logo.png"
     },
     {
         "name": "University of Oregon",
@@ -201,7 +201,7 @@
         "tech": true,
         "mug": false,
         "bag": false,
-        "imageurl": "img/trint_logo.jpf"
+        "imageurl": "img/sojc_logo.jpeg"
     },
     {
         "name": "University of Texas at Austin",
@@ -213,7 +213,7 @@
         "tech": false,
         "mug": true,
         "bag": false,
-        "imageurl": "img/anthem_logo.png"
+        "imageurl": "img/austin_logo.png"
     },
     {
         "name": "USA Today",
@@ -225,7 +225,7 @@
         "tech": true,
         "mug": false,
         "bag": false,
-        "imageurl": "img/vip_logo.jpeg"
+        "imageurl": "img/usa_logo.jpg"
     },
     {
         "name": "WordPress VIP",
