@@ -1,7 +1,7 @@
 [
     {
         "name": "Bloomberg BNA",
-        "twitter": "@BloombergBNA",
+        "twitter": "BloombergBNA",
         "fidget": false,
         "notebook": true,
         "virtual": false,
@@ -13,7 +13,7 @@
     },
     {
         "name": "Circa",
-        "twitter": "@Circa",
+        "twitter": "Circa",
         "fidget": true,
         "notebook": false,
         "virtual": true,
@@ -25,7 +25,7 @@
     },
     {
         "name": "CNN",
-        "twitter": "@CNN",
+        "twitter": "CNN",
         "fidget": false,
         "notebook": false,
         "virtual": false,
@@ -37,7 +37,7 @@
     },
     {
         "name": "Cox Media Group",
-        "twitter": "@COXMG",
+        "twitter": "COXMG",
         "fidget": false,
         "notebook": false,
         "virtual": false,
@@ -49,7 +49,7 @@
     },
     {
         "name": "CUNY ",
-        "twitter": "@cunyjschool",
+        "twitter": "cunyjschool",
         "fidget": false,
         "notebook": true,
         "virtual": false,
@@ -61,7 +61,7 @@
     },
     {
         "name": "Esri",
-        "twitter": "@Esri",
+        "twitter": "Esri",
         "fidget": false,
         "notebook": true,
         "virtual": false,
@@ -73,7 +73,7 @@
     },
     {
         "name": "Facebook",
-        "twitter": "@Facebook",
+        "twitter": "Facebook",
         "fidget": false,
         "notebook": true,
         "virtual": false,
@@ -85,7 +85,7 @@
     },
     {
         "name": "Four Kitchens",
-        "twitter": "@FourKitchens",
+        "twitter": "FourKitchens",
         "fidget": false,
         "notebook": false,
         "virtual": true,
@@ -97,7 +97,7 @@
     },
     {
         "name": "JSK Fellowships at Stanford",
-        "twitter": "@JSKstanford",
+        "twitter": "JSKstanford",
         "fidget": false,
         "notebook": true,
         "virtual": false,
@@ -109,7 +109,7 @@
     },
     {
         "name": "Knight-Wallace Fellowship",
-        "twitter": "@UMKnightWallace ‏",
+        "twitter": "UMKnightWallace ‏",
         "fidget": false,
         "notebook": true,
         "virtual": false,
@@ -121,7 +121,7 @@
     },
     {
         "name": "Newsflare",
-        "twitter": "@Newsflare",
+        "twitter": "Newsflare",
         "fidget": false,
         "notebook": false,
         "virtual": false,
@@ -133,7 +133,7 @@
     },
     {
         "name": "Parse.ly",
-        "twitter": "@Parsely",
+        "twitter": "Parsely",
         "fidget": false,
         "notebook": false,
         "virtual": false,
@@ -145,7 +145,7 @@
     },
     {
         "name": "Reddit",
-        "twitter": "@Reddit",
+        "twitter": "Reddit",
         "fidget": false,
         "notebook": false,
         "virtual": false,
@@ -157,7 +157,7 @@
     },
     {
         "name": "Taboola",
-        "twitter": "@Taboola",
+        "twitter": "Taboola",
         "fidget": true,
         "notebook": false,
         "virtual": false,
@@ -169,7 +169,7 @@
     },
     {
         "name": "Trint",
-        "twitter": "@TrintHQ",
+        "twitter": "TrintHQ",
         "fidget": false,
         "notebook": false,
         "virtual": false,
@@ -181,7 +181,7 @@
     },
     {
         "name": "True Anthem",
-        "twitter": "@TrueAnthem",
+        "twitter": "TrueAnthem",
         "fidget": false,
         "notebook": true,
         "virtual": false,
@@ -193,7 +193,7 @@
     },
     {
         "name": "University of Oregon",
-        "twitter": "@UOsojc",
+        "twitter": "UOsojc",
         "fidget": false,
         "notebook": false,
         "virtual": false,
@@ -205,7 +205,7 @@
     },
     {
         "name": "University of Texas at Austin",
-        "twitter": "@UTJSchool",
+        "twitter": "UTJSchool",
         "fidget": false,
         "notebook": false,
         "virtual": false,
@@ -217,7 +217,7 @@
     },
     {
         "name": "USA Today",
-        "twitter": "@USAToday",
+        "twitter": "USAToday",
         "fidget": false,
         "notebook": false,
         "virtual": false,
@@ -229,7 +229,7 @@
     },
     {
         "name": "WordPress VIP",
-        "twitter": "@WordPressVIP",
+        "twitter": "WordPressVIP",
         "fidget": false,
         "notebook": true,
         "virtual": false,

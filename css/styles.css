@@ -25,6 +25,10 @@ h2{
   font-size: 1.3em;
 }
 
+a{
+  color: #00a39b;
+}
+
 .container{
   padding-left: 6%;
   padding-right: 6%;
